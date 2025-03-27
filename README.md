@@ -1,4 +1,4 @@
-# Produção Científica em <span style="color:red;">Português</span>: Uma Reflexão Crítica
+# Produção textual em <span style="color:red;">Português</span>: Uma Reflexão Crítica
 
 > **Aviso Importante**  
 > Todos os documentos científicos resultantes de minhas pesquisas encontram-se disponíveis em meu idioma nativo, o <span style="color:red;">português</span>. A prevalência do inglês como língua padrão na divulgação científica e tecnológica não se configura simplesmente como uma padronização, mas sim como um fenômeno de conformismo coletivo. Do ponto de vista técnico, essa prática revela uma tendência à incompetência cognitiva, na medida em que a priorização de formas de comunicação consideradas "eficientes" resulta na redução da complexidade inerente à expressão linguística.  
