@@ -67,28 +67,38 @@ class TechStack {
   <img src="https://img.shields.io/badge/-Docker-2496ED" height="24">
 </div>
 
-## **📈 GitHub Analytics**
+Here's a complete, polished README with a real-time coding animation effect:
 
-<div align="center">
 
-[![GitHub Snake Light](https://raw.githubusercontent.com/wispyfrog0930365/wispyfrog0930365/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/wispyfrog0930365)
+[![View Code](https://img.shields.io/badge/-Repository-181717?logo=github)](https://github.com/yourrepo)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wispyfrog0930365&show_icons=true&theme=radical&hide_title=true)](https://github.com/wispyfrog0930365)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wispyfrog0930365&layout=compact&theme=radical&hide_title=true)](https://github.com/wispyfrog0930365)
+### **2. E-commerce Microservices**  
+▶ **Spring Boot | Kafka | MongoDB**  
+```java
+@KafkaListener(topics = "orders")
+public void processOrder(OrderEvent event) {
+  orderService.process(event); 
+}
+```
 
-</div>
-
-## **📬 Contact**
-
-<div align="center">
+## **📫 Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
+---
+
+<div align="center">
+  
+```javascript
+// Current status: Coding the next big thing!
+const status = await checkDeveloperStatus();
+console.log(status); // "🚀 Building scalable backend systems"
+```
+  
 </div>
 
----
 
 <div align="right">
 
