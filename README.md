@@ -67,9 +67,6 @@ class TechStack {
   <img src="https://img.shields.io/badge/-Docker-2496ED" height="24">
 </div>
 
-Here's a complete, polished README with a real-time coding animation effect:
-
-
 [![View Code](https://img.shields.io/badge/-Repository-181717?logo=github)](https://github.com/yourrepo)
 
 ### **2. E-commerce Microservices**  
