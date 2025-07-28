@@ -4,7 +4,7 @@
 ```typescript
 class Developer {
   constructor(
-    public name: string = "Your Name",
+    public name: string = "Roberto Carlos",
     public focus: string[] = ["Backend Development", "Cloud Solutions"],
     public stack: TechStack = new TechStack()
   ) {}
