@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.kali.org/wallpapers/images/2023/kali-red-sticker.jpg" alt="Kali Linux Banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
+  <img src="https://www.kali.org/wallpapers/images/2023/kali-red-sticker.jpg" alt="Kali Linux Banner" style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
 </div>
 
 # **Backend Engineer**  
