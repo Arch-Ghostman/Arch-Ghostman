@@ -5,28 +5,25 @@
 <div align="center">
   
 <h2 style="font-family: 'Courier New', monospace; color: #4CAF50;">🔥 FULLSTACK ENGINEER 🔥</h2>  
-<h3>⚡ <code>Node.js</code> | <code>Spring Boot</code> | <code>Cloud Architect</code> ⚡</h3>
+<h3>⚡ <code>Node.js</code> | <code>Next.js</code> | <code>Cloud Architect</code> ⚡</h3>
 
 </div>
 
 ```typescript
 /**
  * ===================================================
- *            BACKEND ENGINEER PROFILE
+ *            FULLSTACK ENGINEER PROFILE
  * ===================================================
  * @description perfil profissional
  * @version 2.0.0
  * @feature Auth, Profile, Skills, Projects
  */
 
-import express from 'express';
-import { Low, JSONFile } from 'lowdb';
-
 // Configuração otimizada para backend
 const db = new Low(new JSONFile('db.json'), {
   profile: {
     name: "Roberto Carlos",
-    role: "BackEnd Developer & Cloud Architect",
+    role: "FullStack Developer & Cloud Architect",
     contact: {
       email: "robertosilva.rc42@gmail.com",
       linkedin: "https://www.linkedin.com/in/robertosilva42/"
@@ -38,47 +35,6 @@ const db = new Low(new JSONFile('db.json'), {
     cloud: ["AWS", "Docker", "Kubernetes", "Terraform", "Serverless"],
     architectures: ["Microservices", "Event-Driven", "CQRS", "DDD"]
   },
-  projects: [{
-    id: "proj-001",
-    name: "Payment System Architecture",
-    description: "Distributed transaction processing system",
-    stack: ["Node.js", "Kafka", "PostgreSQL", "Redis"],
-    metrics: {
-      throughput: "2k tps",
-      latency: "<50ms",
-      availability: "99.99%"
-    }
-  }]
-});
-
-const app = express();
-app.use(express.json());
-
-// Rotas técnicas para devs backend
-app.get('/api/tech', async (req, res) => {
-  await db.read();
-  res.json({
-    ...db.data.profile,
-    expertise: db.data.techStack,
-    recentProject: db.data.projects[0]
-  });
-});
-
-// Health check endpoint
-app.get('/api/health', (req, res) => {
-  res.status(200).json({ status: 'healthy', dbConnected: !!db.data });
-});
-
-// Inicialização robusta
-app.listen(3000, async () => {
-  try {
-    await db.read();
-    await db.write();
-    console.log(`🚀 Backend Profile API running at http://localhost:3000/api/tech`);
-    console.log(`📊 Health check at http://localhost:3000/api/health`);
-  } catch (error) {
-    console.error('⚠️ Failed to initialize DB:', error);
-  }
 });
 ```
 
