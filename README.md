@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<h2 style="font-family: 'Courier New', monospace; color: #4CAF50;">🔥 BACKEND ENGINEER 🔥</h2>  
+<h2 style="font-family: 'Courier New', monospace; color: #4CAF50;">🔥 FULLSTACK ENGINEER 🔥</h2>  
 <h3>⚡ <code>Node.js</code> | <code>Spring Boot</code> | <code>Cloud Architect</code> ⚡</h3>
 
 </div>
