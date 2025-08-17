@@ -20,131 +20,66 @@
  */
 
 import express from 'express';
-import { WebSocketServer } from 'ws';
 import { Low, JSONFile } from 'lowdb';
 
-// Configuração do "banco de dados"
-type Database = {
+// Configuração otimizada para backend
+const db = new Low(new JSONFile('db.json'), {
   profile: {
-    name: string;
-    role: string;
+    name: "Roberto Carlos",
+    role: "BackEnd Developer & Cloud Architect",
     contact: {
-      email: string;
-      linkedin: string;
-    };
-  };
-  stack: {
-    frontend: string[];
-    backend: string[];
-    devops: string[];
-  };
-  projects: Array<{
-    id: string;
-    name: string;
-    description: string;
-    technologies: string[];
-  }>;
-};
+      email: "robertosilva.rc42@gmail.com",
+      linkedin: "https://www.linkedin.com/in/robertosilva42/"
+    }
+  },
+  techStack: {
+    core: ["Node.js", "NestJS", "Python", "Java/Spring Boot"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "Kafka"],
+    cloud: ["AWS", "Docker", "Kubernetes", "Terraform", "Serverless"],
+    architectures: ["Microservices", "Event-Driven", "CQRS", "DDD"]
+  },
+  projects: [{
+    id: "proj-001",
+    name: "Payment System Architecture",
+    description: "Distributed transaction processing system",
+    stack: ["Node.js", "Kafka", "PostgreSQL", "Redis"],
+    metrics: {
+      throughput: "2k tps",
+      latency: "<50ms",
+      availability: "99.99%"
+    }
+  }]
+});
 
-const adapter = new JSONFile<Database>('db.json');
-const db = new Low(adapter);
-
-// Inicialização do servidor
 const app = express();
-const PORT = process.env.PORT || 3000;
-
-// Middlewares
 app.use(express.json());
 
-// Rotas da API
-app.get('/api/profile', async (req, res) => {
+// Rotas técnicas para devs backend
+app.get('/api/tech', async (req, res) => {
   await db.read();
   res.json({
-    status: 'online',
-    lastUpdated: new Date().toISOString(),
-    data: db.data?.profile
+    ...db.data.profile,
+    expertise: db.data.techStack,
+    recentProject: db.data.projects[0]
   });
 });
 
-app.get('/api/stack', async (req, res) => {
-  await db.read();
-  res.json({
-    frontend: db.data?.stack.frontend.map(tech => ({
-      tech,
-      level: getProficiencyLevel(tech)
-    })),
-    backend: db.data?.stack.backend,
-    devops: db.data?.stack.devops
-  });
+// Health check endpoint
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'healthy', dbConnected: !!db.data });
 });
 
-// WebSocket para atualizações em tempo real
-const wss = new WebSocketServer({ port: 8080 });
-wss.on('connection', ws => {
-  ws.send(JSON.stringify({ type: 'CONNECTED', message: 'Profile service connected' }));
-  
-  setInterval(() => {
-    ws.send(JSON.stringify({
-      type: 'STATUS_UPDATE',
-      data: { currentProjects: 4, lastActivity: new Date().toISOString() }
-    }));
-  }, 5000);
+// Inicialização robusta
+app.listen(3000, async () => {
+  try {
+    await db.read();
+    await db.write();
+    console.log(`🚀 Backend Profile API running at http://localhost:3000/api/tech`);
+    console.log(`📊 Health check at http://localhost:3000/api/health`);
+  } catch (error) {
+    console.error('⚠️ Failed to initialize DB:', error);
+  }
 });
-
-// Inicialização do banco de dados
-async function initializeDB() {
-  await db.read();
-  db.data ||= {
-    profile: {
-      name: "Roberto Carlos",
-      role: "BackEnd Developer & Cloud Architect",
-      contact: {
-        email: "robertosilva.rc42@gmail.com",
-        linkedin: "https://www.linkedin.com/in/robertosilva42/"
-      }
-    },
-    stack: {
-      frontend: ["React", "Vue", "TypeScript", "TailwindCSS"],
-      backend: ["Node.js", "NestJS", "Spring Boot", "Python"],
-      devops: ["Docker", "Kubernetes", "AWS", "Terraform"]
-    },
-    projects: [
-      {
-        id: "proj-001",
-        name: "Sistema de Pagamentos",
-        description: "Arquitetura distribuída para processamento de transações",
-        technologies: ["Node.js", "Kafka", "PostgreSQL"]
-      }
-    ]
-  };
-  await db.write();
-}
-
-// Helper functions
-function getProficiencyLevel(tech: string): string {
-  const expertLevel = ['TypeScript', 'Node.js', 'React'];
-  return expertLevel.includes(tech) ? 'expert' : 'advanced';
-}
-
-// Inicialização
-app.listen(PORT, async () => {
-  await initializeDB();
-  console.log(`
-  🚀 Servidor BackEnd Developer Profile rodando em:
-  █ Local:   http://localhost:${PORT}
-  █ Network: http://${getIPAddress()}:${PORT}
-  
-  Endpoints disponíveis:
-  █ GET /api/profile    - Perfil completo
-  █ GET /api/stack      - Stack técnica detalhada
-  █ WS  /ws             - Conexão WebSocket para atualizações
-  `);
-});
-
-function getIPAddress(): string {
-  // Simulação - em produção pegaria os IPs reais
-  return '192.168.1.100'; 
-}
 ```
 
 ## **✨ Tech Stack Visualization**
