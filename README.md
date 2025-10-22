@@ -25,10 +25,10 @@ interface SecurityEngineerProfile {
   name: "Roberto Carlos";
   title: "FullStack Developer & Application Security Specialist";
   certifications: [
-    "OWASP Security Principles",
-    "Secure Coding Practices",
-    "Cloud Security Fundamentals"
-  ];
+  "ISC² Certified in Cybersecurity (CC)",
+  "ISO 27001 Foundations – Advisera",
+  "Palo Alto Networks Cybersecurity Fundamentals"
+];
   specialties: [
     "Secure SDLC Implementation", 
     "API Security Testing", 
