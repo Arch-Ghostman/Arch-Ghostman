@@ -59,10 +59,33 @@ const myStack = {
   
   // 🔒 SECURITY SPECIALIZATION
   security: {
-    ethicalHacking: ["Penetration Testing", "Vulnerability Assessment"],
-    practices: ["OWASP", "SYCP", "SYES", "Secure Coding", "Encryption"],
-    tools: ["Burp Suite", "Nmap", "Metasploit"]
+  ethicalHacking: [
+    "Penetration Testing", 
+    "Vulnerability Assessment",
+    "Security Auditing",
+    "Threat Modeling",
+    "Incident Response"
+  ],
+  applicationSecurity: [
+    "SAST/DAST Implementation",
+    "API Security Testing",
+    "Container Security",
+    "Cloud Security Posture"
+  ],
+  tools: {
+    scanning: ["Burp Suite Pro", "OWASP ZAP", "Nessus", "Qualys"],
+    network: ["Nmap", "Wireshark", "Masscan"],
+    exploitation: ["Metasploit Pro", "SQLMap", "BeEF"],
+    monitoring: ["ELK Stack", "Splunk", "Wazuh", "Prometheus"],
+    cloud: ["AWS Security Hub", "Azure Security Center", "GCP Security Command"]
   },
+  frameworks: [
+    "OWASP ASVS",
+    "NIST Cybersecurity Framework", 
+    "MITRE ATT&CK",
+    "CIS Benchmarks"
+  ]
+},
   
   // ☁️ CLOUD & DEVOPS
   cloud: ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD"],
