@@ -5,7 +5,7 @@
 <div align="center">
   
 <h2 style="font-family: 'Courier New', monospace; color: #4CAF50;">🔥 FULLSTACK ENGINEER 🔥</h2>  
-<h3>⚡ <code>Node.js</code> | <code>Next.js</code> | <code>Cloud Architect</code> ⚡</h3>
+<h3>⚡ <code>Nest.js</code> | <code>Next.js</code> | <code>Cloud Architect</code> ⚡</h3>
 
 </div>
 
