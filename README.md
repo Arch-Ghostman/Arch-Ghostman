@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80" alt="Cybersecurity Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
+  <img src="https://www.kali.org/wallpapers/legacy/images/legacy/kali-purple-sticker.png" alt="Cybersecurity Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
 </div>
 
 <div align="center">
