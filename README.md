@@ -1,4 +1,9 @@
-# 🚀 FullStack Developer & Cybersecurity Analyst
+
+<div align="center">
+
+# 🥷 FullStack Developer & AI Cybersecurity Analyst
+
+</div>
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80" alt="Cybersecurity Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
@@ -6,7 +11,7 @@
 
 <div align="center">
 
-<h2 style="font-family: 'Courier New', monospace; color: #FF6B35;">💻 FULLSTACK DEVELOPER | 🔒 CYBERSECURITY ANALYST</h2>  
+<h2 style="font-family: 'Courier New', monospace; color: #FF6B35;">💻 WEB DEVELOPER | 🔒 PENTEST SPECIALIST</h2>  
 <h3>⚡ <code>Python Security</code> | <code>AI/ML Security</code> | <code>NestJS/NextJS</code> | <code>Secure SDLC</code> ⚡</h3>
 
 </div>
