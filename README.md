@@ -1,4 +1,8 @@
-# 🚀 FullStack Developer & Application Security Engineer
+<div align="center">
+
+#  FullStack Developer & Application Security Engineer
+
+</div>
 
 <div align="center">
   <img src="https://etgeekera.com/wp-content/uploads/2016/09/doom-banner.jpg" alt="DOOM Banner" style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
