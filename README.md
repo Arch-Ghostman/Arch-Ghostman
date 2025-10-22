@@ -6,9 +6,8 @@
 </div>
 
 <div align="center">
-  <img src="https://www.kali.org/wallpapers/legacy/images/legacy/kali-purple-sticker.png" alt="Cybersecurity Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;"/>
+  <img src="https://fosstorrents.com/img/Banner/black-arch.webp" alt="Cybersecurity Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px; "/>
 </div>
-
 <div align="center">
 
 <h2 style="font-family: 'Courier New', monospace; color: #FF6B35;">💻 WEB DEVELOPER | 🔒 PENTEST SPECIALIST</h2>  
