@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🥷 FullStack Developer & AI Cybersecurity Analyst
+# 🥷 FullStack Developer & Ethical Hacker
 
 </div>
 
