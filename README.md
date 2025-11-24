@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🥷 FullStack Developer & Ethical Hacker
+# 🥷 AI Engineer & Ethical Hacker
 
 </div>
 
@@ -18,7 +18,7 @@
 ```typescript
 /**
  * ===================================================
- *        FULLSTACK & CYBERSECURITY PROFILE
+ *        AI ENGINNER & CYBERSECURITY PROFILE
  * ===================================================
  * @description Security-Focused FullStack Developer
  * @version 4.0.0
