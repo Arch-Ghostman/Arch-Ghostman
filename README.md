@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🥷 AI Engineer & Ethical Hacker
+#  AI Engineer & Ethical Hacker
 
 </div>
 
@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 
-<h2 style="font-family: 'Courier New', monospace; color: #FF6B35;">💻 SOFTWARE ARCHITECT  | 🔒 PENTEST SPECIALIST</h2>  
+<h2 style="font-family: 'Courier New', monospace; color: #FF6B35;"> SOFTWARE ARCHITECT  |  PENTEST SPECIALIST</h2>  
 <h3>⚡ <code>Python Security</code> | <code>AI/ML Security</code> | <code>NestJS/NextJS</code> | <code>Secure SDLC</code> ⚡</h3>
 
 </div>
