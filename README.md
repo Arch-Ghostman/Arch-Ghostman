@@ -1,4 +1,8 @@
+<div align="center">
+  
 # AI Engineer & Ethical Hacker
+
+</div>
 
 <div align="center">
   <img src="https://etgeekera.com/wp-content/uploads/2016/09/doom-banner.jpg" alt="Cybersecurity Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
@@ -6,7 +10,7 @@
 
 <div align="center">
 
-## 🚀 SOFTWARE ARCHITECT | PENTEST SPECIALIST
+##  SOFTWARE ARCHITECT | PENTEST SPECIALIST
 
 ### ⚡ `Python Security` | `AI/ML Security` | `NestJS/NextJS` | `Secure SDLC` ⚡
 
@@ -127,11 +131,12 @@ console.log(`🎯 ${currentFocus[0]}`);
 
 ### 💼 Service Offerings
 
-- **FullStack Development** - Secure applications using Next.js and NestJS
-- **Cybersecurity Analysis** - Threat modeling and risk assessment
-- **Python Security** - Secure AI/ML implementations and automation
-- **AI Integration** - Ethical AI development with security focus
-- **DevSecOps** - Secure CI/CD pipelines and infrastructure
+<p><strong>FullStack Development</strong> – Secure applications using Next.js and NestJS</p>
+<p><strong>Cybersecurity Analysis</strong> – Threat modeling and risk assessment</p>
+<p><strong>Python Security</strong> – Secure AI/ML implementations and automation</p>
+<p><strong>AI Integration</strong> – Ethical AI development with security focus</p>
+<p><strong>DevSecOps</strong> – Secure CI/CD pipelines and infrastructure</p>
+
 
 </div>
 
