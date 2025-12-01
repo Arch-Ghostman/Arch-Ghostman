@@ -1,5 +1,3 @@
-Aqui está o seu README com apenas os títulos centralizados:
-
 <div align="center">
   
 # AI Engineer & Full-Stack Security Specialist
