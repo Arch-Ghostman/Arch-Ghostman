@@ -5,15 +5,19 @@
   
   <br/>
   
-  ### SECURE SOFTWARE ARCHITECTURE | AI INTEGRATION | APPLICATION SECURITY
+  ### SECURE AI INTEGRATION | FULL-STACK ARCHITECTURE | APPLICATION SECURITY
   
 </div>
 
-## Professional Profile
+---
+
+## 📋 Professional Profile
 
 AI-focused full-stack security engineer specializing in building intelligent, resilient applications with integrated machine learning capabilities. Combines software architecture expertise with offensive security principles to implement Secure Development Lifecycle practices across modern technology stacks.
 
-## Technical Architecture
+---
+
+## 🏗️ Technical Architecture
 
 ```typescript
 /**
@@ -56,86 +60,54 @@ interface AIEngineerProfile {
       "TypeScript Enterprise Applications"
     ]
   };
-  
-  contact: {
-    email: "robertosilva.rc42@gmail.com";
-    linkedin: "https://www.linkedin.com/in/robertosilva42/";
-    github: "https://github.com/Arch-Ghostman";
-  };
-}
-```
-
-## Technology Stack
-
-### AI & Machine Learning
-
-```typescript
-const aiStack = {
-  machineLearning: {
-    frameworks: ["TensorFlow", "PyTorch", "Scikit-learn"],
-    computerVision: ["OpenCV", "YOLO", "MediaPipe"],
-    nlp: ["spaCy", "NLTK", "Transformers"],
-    mlops: ["MLflow", "Kubeflow", "DVC"]
-  },
-  
-  pythonSecurity: {
-    securityLibraries: ["Scapy", "PyCryptodome", "Safety", "Bandit"],
-    webFrameworks: ["FastAPI", "Django", "Flask"],
-    securityTesting: ["Prowler", "TruffleHog", "Semgrep Python"],
-    asyncProcessing: ["Celery", "RQ", "Dask"]
-  }
 };
 ```
 
-### Full-Stack Development
+---
 
-```typescript
-const developmentStack = {
-  backend: {
-    nodejs: ["NestJS", "Express.js", "Fastify"],
-    apiSecurity: ["Helmet", "CORS", "rate-limiter-flexible", "JWT", "OAuth2"],
-    testing: ["Jest", "Supertest", "Cypress"]
-  },
-  
-  frontend: {
-    frameworks: ["Next.js", "React", "TypeScript"],
-    stateManagement: ["Zustand", "React Query", "Redux Toolkit"],
-    security: ["CSP", "XSS Protection", "CSRF Tokens"]
-  },
-  
-  applicationSecurity: {
-    staticAnalysis: ["SonarQube", "Snyk Code", "Semgrep"],
-    dynamicAnalysis: ["OWASP ZAP", "Burp Suite", "Nuclei"],
-    dependencyScanning: ["Snyk", "Dependabot", "Renovate"],
-    containerSecurity: ["Trivy", "Grype", "Docker Scout"]
-  }
-};
-```
+## 🛠️ Technology Stack
 
-## Technical Competencies
-
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 | ML Frameworks | Computer Vision | NLP & LLMs | MLOps |
 |---------------|-----------------|------------|-------|
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) |
 
-### Full-Stack Development
+**Python Security Ecosystem:**
+- **Security Libraries**: Scapy, PyCryptodome, Safety, Bandit
+- **Web Frameworks**: FastAPI, Django, Flask
+- **Security Testing**: Prowler, TruffleHog, Semgrep Python
+- **Async Processing**: Celery, RQ, Dask
+
+### 💻 Full-Stack Development
 
 | Backend Frameworks | Frontend Technologies | API Security | Testing |
 |-------------------|----------------------|--------------|---------|
 | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white) | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) |
 
-### Security & Infrastructure
+**JavaScript/TypeScript Stack:**
+- **Backend**: NestJS, Express.js, Fastify
+- **Frontend**: Next.js, React, TypeScript
+- **State Management**: Zustand, React Query, Redux Toolkit
+- **Security Libraries**: Helmet, CORS, rate-limiter-flexible
+
+### 🔒 Security & Infrastructure
 
 | Application Security | Cloud & DevOps | Containerization | Compliance |
 |---------------------|----------------|------------------|------------|
 | ![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | ![ISO27001](https://img.shields.io/badge/ISO_27001-FFFFFF?logo=iso&logoColor=black) ![NIST](https://img.shields.io/badge/NIST_CSF-0052CC) |
 
-## Current Focus
+**Security Tooling:**
+- **Static Analysis**: SonarQube, Snyk Code, Semgrep
+- **Dynamic Analysis**: OWASP ZAP, Burp Suite, Nuclei
+- **Dependency Scanning**: Snyk, Dependabot, Renovate
+- **Container Security**: Trivy, Grype, Docker Scout
+
+---
+
+## 🎯 Current Focus Areas
 
 ```typescript
-// Primary Technical Initiatives
 const currentInitiatives: Initiative[] = [
   {
     domain: "Secure AI System Architecture",
@@ -155,7 +127,9 @@ const currentInitiatives: Initiative[] = [
 ];
 ```
 
-## Professional Services
+---
+
+## 💼 Professional Services
 
 ### AI Engineering
 - **Machine Learning System Design**: Architecting scalable, secure AI solutions with integrated security controls
@@ -174,14 +148,15 @@ const currentInitiatives: Initiative[] = [
 - **Secure CI/CD for AI Systems**: Implementing security scanning and compliance checks in ML pipelines
 - **Cloud Security Architecture**: Designing and implementing secure cloud infrastructure for AI workloads
 
-## Connect
+---
+
+## 📞 Contact Information
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:robertosilva.rc42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-robertosilva42-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arch--Ghostman-181717?logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-6e5494?logo=github&logoColor=white)](https://github.com/Arch-Ghostman?tab=repositories)
+
+[![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:robertosilva.rc42@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robertosilva42-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/robertosilva42/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arch--Ghostman-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Arch-Ghostman)
 
 </div>
 
