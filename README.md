@@ -1,6 +1,6 @@
 <div align="center">
   
-# AI Engineer | Full-Stack | Security Specialist
+# AI Engineer | Full-Stack | Ethical Hacker
 
 </div> 
 
