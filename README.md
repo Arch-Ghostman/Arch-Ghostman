@@ -1,9 +1,11 @@
+Aqui está o seu README com apenas os títulos centralizados:
 
 <div align="center">
   
 # AI Engineer & Full-Stack Security Specialist
 
-<div/> 
+</div> 
+
 <div align="center">
   <img src="https://etgeekera.com/wp-content/uploads/2016/09/doom-banner.jpg" alt="Cybersecurity Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
   
@@ -15,13 +17,21 @@
 
 ---
 
+<div align="center">
+
 ## 📋 Professional Profile
+
+</div>
 
 AI-focused full-stack security engineer specializing in building intelligent, resilient applications with integrated machine learning capabilities. Combines software architecture expertise with offensive security principles to implement Secure Development Lifecycle practices across modern technology stacks.
 
 ---
 
+<div align="center">
+
 ## 🏗️ Technical Architecture
+
+</div>
 
 ```typescript
 /**
@@ -69,7 +79,11 @@ interface AIEngineerProfile {
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technology Stack
+
+</div>
 
 ### 🤖 AI & Machine Learning
 
@@ -109,7 +123,11 @@ interface AIEngineerProfile {
 
 ---
 
+<div align="center">
+
 ## 🎯 Current Focus Areas
+
+</div>
 
 ```typescript
 const currentInitiatives: Initiative[] = [
@@ -133,7 +151,11 @@ const currentInitiatives: Initiative[] = [
 
 ---
 
+<div align="center">
+
 ## 💼 Professional Services
+
+</div>
 
 ### AI Engineering
 - **Machine Learning System Design**: Architecting scalable, secure AI solutions with integrated security controls
@@ -154,7 +176,11 @@ const currentInitiatives: Initiative[] = [
 
 ---
 
+<div align="center">
+
 ## 📞 Contact Information
+
+</div>
 
 <div align="center">
 
