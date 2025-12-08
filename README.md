@@ -5,7 +5,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://eerielinux.wordpress.com/wp-content/uploads/2015/03/archbsd_open.png" alt="Cybersecurity Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
+  <img src="archbsd_open (1).png" alt="Cybersecurity Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
   
   <br/>
   
