@@ -1,9 +1,11 @@
-# 🚀 Senior Full-Stack Developer
-## **Java Spring Boot | Angular | Next.js**
-
 <div align="center">
   
-<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Development Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
+# 🚀 Desenvolvedor Full-Stack Web/Mobile
+## **Desenvolvedor Java / Spring Boot**
+</div>
+<div align="center">
+  
+<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -11,30 +13,38 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-*Enterprise-grade applications with modern architectures*
+*Aplicações empresariais com arquiteturas modernas*
 
 </div>
 
 ---
 
-## 🎯 **About Me**
+<div align="center">
 
-Senior Full-Stack Developer with expertise in building **scalable enterprise applications** using **Java Spring Boot** for backend services and **Angular/Next.js** for modern frontend experiences. Passionate about clean architecture, code quality, and delivering robust solutions across the entire stack.
+## 🎯 **Sobre Mim**
+
+</div>
+
+Desenvolvedor Full-Stack Sênior com expertise em construir **aplicações empresariais escaláveis** usando **Java Spring Boot** para serviços backend e **Angular/Next.js** para experiências frontend modernas. Apaixonado por arquitetura limpa, qualidade de código e entrega de soluções robustas em toda a stack.
 
 ---
 
-## 🛠 **Core Technology Stack**
+<div align="center">
 
-### **Backend Expertise**
+## 🛠 **Stack Tecnológica Principal**
+
+</div>
+
+### **Expertise em Backend**
 ```yaml
-Primary Stack:
+Stack Principal:
   - Java 11-21
   - Spring Boot 3.x
   - Spring Security
   - Spring Data JPA
   - Spring Cloud
 
-Database & Caching:
+Banco de Dados & Cache:
   - PostgreSQL / MySQL
   - MongoDB
   - Redis
@@ -45,16 +55,16 @@ Message Brokers:
   - RabbitMQ
   - ActiveMQ
 
-API Development:
-  - RESTful APIs
-  - GraphQL (with Spring GraphQL)
+Desenvolvimento de API:
+  - APIs RESTful
+  - GraphQL (com Spring GraphQL)
   - WebSocket / STOMP
   - OpenAPI 3.0 / Swagger
 ```
 
-### **Frontend Mastery**
+### **Maestria em Frontend**
 ```yaml
-Angular Ecosystem:
+Ecossistema Angular:
   - Angular 14-18
   - TypeScript
   - RxJS / NgRx
@@ -68,7 +78,7 @@ Next.js & React:
   - React Query / SWR
   - Zustand / Redux Toolkit
 
-UI/UX Development:
+Desenvolvimento UI/UX:
   - Tailwind CSS
   - Material-UI / Chakra UI
   - Storybook
@@ -77,22 +87,22 @@ UI/UX Development:
 
 ### **DevOps & Cloud**
 ```yaml
-Cloud Platforms:
+Plataformas Cloud:
   - AWS (EC2, S3, RDS, Lambda)
   - Azure (App Service, SQL DB)
   - Google Cloud Platform
 
-Containerization:
+Containerização:
   - Docker
   - Docker Compose
-  - Kubernetes (basic)
+  - Kubernetes (básico)
 
 CI/CD:
   - GitHub Actions
   - Jenkins
   - GitLab CI
 
-Infrastructure:
+Infraestrutura:
   - Terraform
   - AWS CDK
   - Nginx
@@ -100,40 +110,48 @@ Infrastructure:
 
 ---
 
-## 📊 **Architectural Experience**
+<div align="center">
 
-### **Microservices & Monoliths**
-- **Microservices Architecture** with Spring Cloud
-- **Modular Monoliths** using Java Modules
-- **Event-Driven Systems** with Kafka
-- **API Gateway Patterns** (Spring Cloud Gateway)
+## 📊 **Experiência em Arquitetura**
 
-### **Frontend Architecture**
-- **Micro Frontends** with Module Federation
-- **Monorepo Management** (Nx Workspace, Turborepo)
+</div>
+
+### **Microsserviços & Monolitos**
+- **Arquitetura de Microsserviços** com Spring Cloud
+- **Monolitos Modulares** usando Java Modules
+- **Sistemas Orientados a Eventos** com Kafka
+- **Padrões de API Gateway** (Spring Cloud Gateway)
+
+### **Arquitetura Frontend**
+- **Micro Frontends** com Module Federation
+- **Gerenciamento de Monorepo** (Nx Workspace, Turborepo)
 - **Server-Side Rendering** (Next.js, Angular Universal)
-- **Static Site Generation** and Incremental Static Regeneration
+- **Static Site Generation** e Incremental Static Regeneration
 
-### **Security Implementation**
-- **JWT-based Authentication** with Spring Security
+### **Implementação de Segurança**
+- **Autenticação baseada em JWT** com Spring Security
 - **OAuth 2.0 / OpenID Connect**
-- **Role-Based Access Control** (RBAC)
-- **API Security Best Practices**
-- **Content Security Policy** (CSP) implementation
+- **Controle de Acesso Baseado em Funções** (RBAC)
+- **Melhores Práticas de Segurança de API**
+- **Implementação de Content Security Policy** (CSP)
 
 ---
 
-## 💼 **Professional Experience**
+<div align="center">
 
-### **Enterprise Application Development**
-- **Financial Systems**: Banking applications with real-time transaction processing
-- **E-commerce Platforms**: High-traffic online retail systems
-- **Healthcare Systems**: HIPAA-compliant patient management applications
-- **SaaS Products**: Multi-tenant cloud applications
+## 💼 **Experiência Profissional**
 
-### **Key Contributions**
+</div>
+
+### **Desenvolvimento de Aplicações Empresariais**
+- **Sistemas Financeiros**: Aplicações bancárias com processamento de transações em tempo real
+- **Plataformas E-commerce**: Sistemas de varejo online de alto tráfego
+- **Sistemas de Saúde**: Aplicações de gerenciamento de pacientes compatíveis com HIPAA
+- **Produtos SaaS**: Aplicações cloud multi-tenant
+
+### **Contribuições Principais**
 ```java
-// Example: Modern Spring Boot Service
+// Exemplo: Serviço Spring Boot Moderno
 @RestController
 @RequestMapping("/api/v1")
 @SecurityRequirement(name = "bearerAuth")
@@ -142,7 +160,7 @@ public class ProductController {
     private final ProductService productService;
     
     @GetMapping("/products")
-    @Operation(summary = "Get paginated products")
+    @Operation(summary = "Obter produtos paginados")
     public ResponseEntity<Page<ProductResponse>> getProducts(
             @ParameterObject @Valid ProductFilter filter,
             @ParameterObject Pageable pageable) {
@@ -161,67 +179,79 @@ public class ProductController {
 
 ---
 
-## 🏆 **Technical Achievements**
+<div align="center">
 
-### **Performance Optimization**
-- Reduced API response times by 70% through query optimization and caching
-- Improved Angular application load time by 60% with lazy loading and code splitting
-- Implemented Redis caching layer handling 10k+ requests per second
+## 🏆 **Conquistas Técnicas**
 
-### **Scalability Improvements**
-- Migrated monolithic application to microservices serving 100k+ users
-- Implemented horizontal scaling strategies for database and application layers
-- Designed and deployed auto-scaling solutions on AWS
+</div>
 
-### **Code Quality & Best Practices**
-- Established CI/CD pipelines with 100% automated testing coverage
-- Implemented comprehensive monitoring and alerting systems
-- Introduced code review processes reducing bugs in production by 40%
+### **Otimização de Performance**
+- Redução de 70% no tempo de resposta de APIs através de otimização de queries e cache
+- Melhoria de 60% no tempo de carregamento de aplicações Angular com lazy loading e code splitting
+- Implementação de camada de cache Redis lidando com 10k+ requisições por segundo
 
----
+### **Melhorias de Escalabilidade**
+- Migração de aplicação monolítica para microsserviços atendendo 100k+ usuários
+- Implementação de estratégias de escalabilidade horizontal para banco de dados e camadas de aplicação
+- Projeto e implantação de soluções de auto-scaling na AWS
 
-## 📚 **Development Methodologies**
-
-### **Agile Practices**
-- **Scrum & Kanban** implementation
-- **Test-Driven Development** (TDD)
-- **Behavior-Driven Development** (BDD) with Cucumber
-- **Pair Programming** and **Code Reviews**
-
-### **Quality Assurance**
-- **Unit Testing**: JUnit 5, Mockito, Testcontainers
-- **Integration Testing**: Spring Boot Test, @DataJpaTest
-- **E2E Testing**: Cypress, Playwright
-- **Performance Testing**: JMeter, Gatling
-
-### **Documentation**
-- **API Documentation**: OpenAPI 3.0 with Swagger UI
-- **Architecture Decision Records** (ADRs)
-- **Technical Specification Documents**
-- **Developer Onboarding Guides**
+### **Qualidade de Código & Melhores Práticas**
+- Estabelecimento de pipelines CI/CD com 100% de cobertura de testes automatizados
+- Implementação de sistemas abrangentes de monitoramento e alertas
+- Introdução de processos de code review reduzindo bugs em produção em 40%
 
 ---
 
-## 🔧 **Development Environment**
+<div align="center">
+
+## 📚 **Metodologias de Desenvolvimento**
+
+</div>
+
+### **Práticas Ágeis**
+- Implementação de **Scrum & Kanban**
+- **Desenvolvimento Orientado a Testes** (TDD)
+- **Desenvolvimento Orientado a Comportamento** (BDD) com Cucumber
+- **Pair Programming** e **Code Reviews**
+
+### **Garantia de Qualidade**
+- **Testes Unitários**: JUnit 5, Mockito, Testcontainers
+- **Testes de Integração**: Spring Boot Test, @DataJpaTest
+- **Testes E2E**: Cypress, Playwright
+- **Testes de Performance**: JMeter, Gatling
+
+### **Documentação**
+- **Documentação de API**: OpenAPI 3.0 com Swagger UI
+- **Registros de Decisão de Arquitetura** (ADRs)
+- **Documentos de Especificação Técnica**
+- **Guias de Onboarding para Desenvolvedores**
+
+---
+
+<div align="center">
+
+## 🔧 **Ambiente de Desenvolvimento**
+
+</div>
 
 ```yaml
-IDE & Tools:
+IDE & Ferramentas:
   - IntelliJ IDEA Ultimate
   - VS Code
   - Postman / Insomnia
   - DBeaver / DataGrip
 
-Build Tools:
+Ferramentas de Build:
   - Maven
   - Gradle
   - npm / yarn / pnpm
 
-Version Control:
+Controle de Versão:
   - Git (GitHub, GitLab, Bitbucket)
   - Git Flow / GitHub Flow
   - Conventional Commits
 
-Quality Tools:
+Ferramentas de Qualidade:
   - SonarQube
   - Checkstyle / PMD
   - ESLint / Prettier
@@ -230,65 +260,77 @@ Quality Tools:
 
 ---
 
-## 🌟 **Recent Projects**
+<div align="center">
 
-### **Project A: E-commerce Platform**
-**Tech Stack**: Spring Boot + Angular + PostgreSQL + Redis + AWS
-- **Backend**: Microservices architecture with 15+ services
-- **Frontend**: Angular SPA with PWA capabilities
-- **Scale**: Handles 50k+ daily users, 10k+ orders daily
-- **Features**: Real-time inventory, payment integration, recommendation engine
+## 🌟 **Projetos Recentes**
 
-### **Project B: Healthcare Management System**
-**Tech Stack**: Spring Boot + Next.js + MongoDB + Kafka + Azure
-- **Compliance**: HIPAA, GDPR compliant architecture
-- **Real-time**: Live patient monitoring with WebSocket
-- **Security**: Multi-factor authentication, audit logging
-- **Mobile**: Progressive Web App with offline capabilities
+</div>
 
-### **Project C: Financial Analytics Dashboard**
-**Tech Stack**: Java 17 + Spring Boot 3 + React + PostgreSQL + TimescaleDB
-- **Data Processing**: Real-time analytics with Kafka Streams
-- **Visualization**: Interactive charts with D3.js and Recharts
-- **Performance**: Sub-second query responses on 100M+ records
-- **Export**: PDF/Excel report generation
+### **Projeto A: Plataforma E-commerce**
+**Stack**: Spring Boot + Angular + PostgreSQL + Redis + AWS
+- **Backend**: Arquitetura de microsserviços com 15+ serviços
+- **Frontend**: SPA Angular com capacidades PWA
+- **Escala**: Lida com 50k+ usuários diários, 10k+ pedidos diários
+- **Funcionalidades**: Inventário em tempo real, integração de pagamento, motor de recomendação
+
+### **Projeto B: Sistema de Gestão de Saúde**
+**Stack**: Spring Boot + Next.js + MongoDB + Kafka + Azure
+- **Conformidade**: Arquitetura compatível com HIPAA, GDPR
+- **Tempo real**: Monitoramento de pacientes ao vivo com WebSocket
+- **Segurança**: Autenticação multi-fator, logging de auditoria
+- **Mobile**: Progressive Web App com capacidades offline
+
+### **Projeto C: Dashboard de Análise Financeira**
+**Stack**: Java 17 + Spring Boot 3 + React + PostgreSQL + TimescaleDB
+- **Processamento de Dados**: Análises em tempo real com Kafka Streams
+- **Visualização**: Gráficos interativos com D3.js e Recharts
+- **Performance**: Respostas de queries em sub-segundos em 100M+ registros
+- **Exportação**: Geração de relatórios PDF/Excel
 
 ---
 
-## 📈 **Technical Roadmap**
+<div align="center">
 
-### **Current Focus**
+## 📈 **Roteiro Técnico**
+
+</div>
+
+### **Foco Atual**
 ```yaml
-Backend Development:
-  - Mastering Spring Boot 3.x features
-  - Reactive Programming with WebFlux
-  - Java 21 virtual threads
-  - Cloud-native patterns
+Desenvolvimento Backend:
+  - Domínio de recursos do Spring Boot 3.x
+  - Programação Reativa com WebFlux
+  - Virtual threads do Java 21
+  - Padrões cloud-native
 
-Frontend Evolution:
+Evolução Frontend:
   - Next.js 14 App Router
   - Angular Signals
-  - Micro frontend architecture
-  - Web Performance optimization
+  - Arquitetura de micro frontends
+  - Otimização de performance web
 
-Emerging Technologies:
-  - AI integration in applications
-  - Edge computing concepts
-  - Blockchain for enterprise
+Tecnologias Emergentes:
+  - Integração de IA em aplicações
+  - Conceitos de edge computing
+  - Blockchain para empresas
 ```
 
 ---
 
-## 📞 **Get In Touch**
+<div align="center">
 
-I'm always interested in challenging projects and opportunities to work with innovative teams. Let's connect and discuss how we can build amazing software together!
+## 📞 **Entre em Contato**
+
+</div>
+
+Estou sempre interessado em projetos desafiadores e oportunidades de trabalhar com equipes inovadoras. Vamos nos conectar e discutir como podemos construir software incrível juntos!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertosilva.rc42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
@@ -296,8 +338,8 @@ I'm always interested in challenging projects and opportunities to work with inn
 
 <div align="center">
   
-*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
+*"Código limpo sempre parece ter sido escrito por alguém que se importa." — Robert C. Martin*
 
-**Open to full-time positions, contract work, and technical consulting**
+**Aberto para posições em tempo integral, trabalho contratual e consultoria técnica**
 
 </div>
