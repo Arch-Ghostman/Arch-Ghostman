@@ -46,8 +46,10 @@ Atuo com **Scrum e Kanban**, garantindo **entrega contínua de valor**, comunica
 
 ## 🛠 **Stack Tecnológica Principal**
 
-
+</div>
+  
 ### **Expertise em Backend**
+
 ```yaml
 Stack Principal:
   - Java 11-21
