@@ -18,8 +18,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🎯 Sobre Mim
+
+</div>
 
 Sou **Desenvolvedor Full-Stack Sênior** especializado em projetar e entregar **sistemas corporativos escaláveis, seguros e de alta performance**.
 
