@@ -19,21 +19,33 @@
 
 ---
 
-<div align="center">
+## 🎯 Sobre Mim
 
-## 🎯 **Sobre Mim**
+Sou **Desenvolvedor Full-Stack Sênior** especializado em projetar e entregar **sistemas corporativos escaláveis, seguros e de alta performance**.
 
-</div>
-
-Desenvolvedor Full-Stack Sênior com expertise em construir **aplicações empresariais escaláveis** usando **Java Spring Boot** para serviços backend e **Angular/Next.js** para experiências frontend modernas. Apaixonado por arquitetura limpa, qualidade de código e entrega de soluções robustas em toda a stack.
+Trabalho com **Java + Spring** (Spring Boot, Spring Cloud, Spring Security) no backend, desenvolvendo **APIs RESTful**, serviços distribuídos e integrações complexas.  
+No frontend, construo **aplicações modernas e performáticas** com **Angular (TypeScript, RxJS)** e **Next.js (React)**, sempre priorizando interfaces fluidas e responsivas.
 
 ---
+
+## 🔧 Minha Atuação Técnica
+
+- **Arquitetura Limpa & Design Patterns** para criar sistemas bem estruturados e de fácil evolução.  
+- **Código de qualidade**, usando Clean Code e **testes automatizados completos** (unitários, integração e e2e).  
+- **Ciclos de entrega estáveis**, com CI/CD, **logs estruturados**, métricas, monitoramento e observabilidade.  
+- **Documentação técnica clara**, facilitando alinhamento, organização e colaboração entre equipes.  
+
+---
+
+## 🚀 Metodologias de Trabalho
+
+Atuo com **Scrum e Kanban**, garantindo **entrega contínua de valor**, comunicação objetiva e desenvolvimento iterativo e previsível.
+
 
 <div align="center">
 
 ## 🛠 **Stack Tecnológica Principal**
 
-</div>
 
 ### **Expertise em Backend**
 ```yaml
