@@ -1,199 +1,303 @@
-<div align="center">
-  
-# AI Engineer | Full-Stack | Ethical Hacker
-
-</div> 
+# 🚀 Senior Full-Stack Developer
+## **Java Spring Boot | Angular | Next.js**
 
 <div align="center">
-  <img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Cybersecurity Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
   
-  <br/>
-  
-  ### SECURE AI INTEGRATION | FULL-STACK ARCHITECTURE | APPLICATION SECURITY
-  
+<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Development Banner" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+*Enterprise-grade applications with modern architectures*
+
 </div>
 
 ---
 
-<div align="center">
+## 🎯 **About Me**
 
-## 📋 Professional Profile
-
-</div>
-
-AI-focused full-stack security engineer specializing in building intelligent, resilient applications with integrated machine learning capabilities. Combines software architecture expertise with offensive security principles to implement Secure Development Lifecycle practices across modern technology stacks.
+Senior Full-Stack Developer with expertise in building **scalable enterprise applications** using **Java Spring Boot** for backend services and **Angular/Next.js** for modern frontend experiences. Passionate about clean architecture, code quality, and delivering robust solutions across the entire stack.
 
 ---
 
-<div align="center">
+## 🛠 **Core Technology Stack**
 
-## 🏗️ Technical Architecture
+### **Backend Expertise**
+```yaml
+Primary Stack:
+  - Java 11-21
+  - Spring Boot 3.x
+  - Spring Security
+  - Spring Data JPA
+  - Spring Cloud
 
-</div>
+Database & Caching:
+  - PostgreSQL / MySQL
+  - MongoDB
+  - Redis
+  - Elasticsearch
 
-```typescript
-/**
- * AI Engineering & Security Profile
- * @version 4.0.0
- * @domain Artificial Intelligence, Application Security, Full-Stack Development
- */
+Message Brokers:
+  - Apache Kafka
+  - RabbitMQ
+  - ActiveMQ
 
-interface AIEngineerProfile {
-  identity: {
-    name: "Roberto Carlos";
-    primaryTitle: "AI Engineer";
-    secondaryTitle: "Full-Stack Security Specialist";
-    focus: "Secure AI Integration & Application Security";
-  };
-  
-  credentials: [
-    "ISC² Certified in Cybersecurity (CC)",
-    "ISO 27001 Foundations – Advisera", 
-    "Palo Alto Networks Cybersecurity Fundamentals"
-  ];
-  
-  expertise: {
-    aiEngineering: [
-      "Machine Learning System Architecture",
-      "Secure AI/ML Pipeline Development",
-      "Model Security & Adversarial Testing",
-      "AI Integration Patterns"
-    ],
-    securityEngineering: [
-      "Secure SDLC Implementation",
-      "Threat Modeling & Risk Assessment",
-      "Security Code Review",
-      "Cloud Security Architecture"
-    ],
-    fullStackDevelopment: [
-      "NestJS Microservices Architecture",
-      "NextJS Application Development",
-      "Python Security Frameworks",
-      "TypeScript Enterprise Applications"
-    ]
-  };
-};
+API Development:
+  - RESTful APIs
+  - GraphQL (with Spring GraphQL)
+  - WebSocket / STOMP
+  - OpenAPI 3.0 / Swagger
+```
+
+### **Frontend Mastery**
+```yaml
+Angular Ecosystem:
+  - Angular 14-18
+  - TypeScript
+  - RxJS / NgRx
+  - Angular Material
+  - Angular CLI
+
+Next.js & React:
+  - Next.js 13-14 (App Router)
+  - React 18
+  - Server Components
+  - React Query / SWR
+  - Zustand / Redux Toolkit
+
+UI/UX Development:
+  - Tailwind CSS
+  - Material-UI / Chakra UI
+  - Storybook
+  - Jest / Testing Library
+```
+
+### **DevOps & Cloud**
+```yaml
+Cloud Platforms:
+  - AWS (EC2, S3, RDS, Lambda)
+  - Azure (App Service, SQL DB)
+  - Google Cloud Platform
+
+Containerization:
+  - Docker
+  - Docker Compose
+  - Kubernetes (basic)
+
+CI/CD:
+  - GitHub Actions
+  - Jenkins
+  - GitLab CI
+
+Infrastructure:
+  - Terraform
+  - AWS CDK
+  - Nginx
 ```
 
 ---
 
-<div align="center">
+## 📊 **Architectural Experience**
 
-## 🛠️ Technology Stack
+### **Microservices & Monoliths**
+- **Microservices Architecture** with Spring Cloud
+- **Modular Monoliths** using Java Modules
+- **Event-Driven Systems** with Kafka
+- **API Gateway Patterns** (Spring Cloud Gateway)
 
-</div>
+### **Frontend Architecture**
+- **Micro Frontends** with Module Federation
+- **Monorepo Management** (Nx Workspace, Turborepo)
+- **Server-Side Rendering** (Next.js, Angular Universal)
+- **Static Site Generation** and Incremental Static Regeneration
 
-### 🤖 AI & Machine Learning
-
-| ML Frameworks | Computer Vision | NLP & LLMs | MLOps |
-|---------------|-----------------|------------|-------|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) |
-
-**Python Security Ecosystem:**
-- **Security Libraries**: Scapy, PyCryptodome, Safety, Bandit
-- **Web Frameworks**: FastAPI, Django, Flask
-- **Security Testing**: Prowler, TruffleHog, Semgrep Python
-- **Async Processing**: Celery, RQ, Dask
-
-### 💻 Full-Stack Development
-
-| Backend Frameworks | Frontend Technologies | API Security | Testing |
-|-------------------|----------------------|--------------|---------|
-| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white) | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) |
-
-**JavaScript/TypeScript Stack:**
-- **Backend**: NestJS, Express.js, Fastify
-- **Frontend**: Next.js, React, TypeScript
-- **State Management**: Zustand, React Query, Redux Toolkit
-- **Security Libraries**: Helmet, CORS, rate-limiter-flexible
-
-### 🔒 Security & Infrastructure
-
-| Application Security | Cloud & DevOps | Containerization | Compliance |
-|---------------------|----------------|------------------|------------|
-| ![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | ![ISO27001](https://img.shields.io/badge/ISO_27001-FFFFFF?logo=iso&logoColor=black) ![NIST](https://img.shields.io/badge/NIST_CSF-0052CC) |
-
-**Security Tooling:**
-- **Static Analysis**: SonarQube, Snyk Code, Semgrep
-- **Dynamic Analysis**: OWASP ZAP, Burp Suite, Nuclei
-- **Dependency Scanning**: Snyk, Dependabot, Renovate
-- **Container Security**: Trivy, Grype, Docker Scout
+### **Security Implementation**
+- **JWT-based Authentication** with Spring Security
+- **OAuth 2.0 / OpenID Connect**
+- **Role-Based Access Control** (RBAC)
+- **API Security Best Practices**
+- **Content Security Policy** (CSP) implementation
 
 ---
 
-<div align="center">
+## 💼 **Professional Experience**
 
-## 🎯 Current Focus Areas
+### **Enterprise Application Development**
+- **Financial Systems**: Banking applications with real-time transaction processing
+- **E-commerce Platforms**: High-traffic online retail systems
+- **Healthcare Systems**: HIPAA-compliant patient management applications
+- **SaaS Products**: Multi-tenant cloud applications
 
-</div>
-
-```typescript
-const currentInitiatives: Initiative[] = [
-  {
-    domain: "Secure AI System Architecture",
-    technologies: ["TensorFlow", "FastAPI", "NestJS"],
-    securityPractices: ["Model Security", "Data Privacy", "Adversarial Testing"]
-  },
-  {
-    domain: "Intelligent Full-Stack Applications",
-    technologies: ["Next.js", "TypeScript", "Python"],
-    focus: ["AI-Enhanced UX", "Secure API Integration", "Real-time Processing"]
-  },
-  {
-    domain: "MLOps Security",
-    technologies: ["MLflow", "Docker", "GitHub Actions"],
-    practices: ["Secure Model Deployment", "Pipeline Security", "Compliance Automation"]
-  }
-];
+### **Key Contributions**
+```java
+// Example: Modern Spring Boot Service
+@RestController
+@RequestMapping("/api/v1")
+@SecurityRequirement(name = "bearerAuth")
+public class ProductController {
+    
+    private final ProductService productService;
+    
+    @GetMapping("/products")
+    @Operation(summary = "Get paginated products")
+    public ResponseEntity<Page<ProductResponse>> getProducts(
+            @ParameterObject @Valid ProductFilter filter,
+            @ParameterObject Pageable pageable) {
+        return ResponseEntity.ok(productService.findAll(filter, pageable));
+    }
+    
+    @PostMapping("/products")
+    @PreAuthorize("hasRole('ADMIN')")
+    public ResponseEntity<ProductResponse> createProduct(
+            @Valid @RequestBody CreateProductRequest request) {
+        return ResponseEntity.status(HttpStatus.CREATED)
+                .body(productService.create(request));
+    }
+}
 ```
 
 ---
 
+## 🏆 **Technical Achievements**
+
+### **Performance Optimization**
+- Reduced API response times by 70% through query optimization and caching
+- Improved Angular application load time by 60% with lazy loading and code splitting
+- Implemented Redis caching layer handling 10k+ requests per second
+
+### **Scalability Improvements**
+- Migrated monolithic application to microservices serving 100k+ users
+- Implemented horizontal scaling strategies for database and application layers
+- Designed and deployed auto-scaling solutions on AWS
+
+### **Code Quality & Best Practices**
+- Established CI/CD pipelines with 100% automated testing coverage
+- Implemented comprehensive monitoring and alerting systems
+- Introduced code review processes reducing bugs in production by 40%
+
+---
+
+## 📚 **Development Methodologies**
+
+### **Agile Practices**
+- **Scrum & Kanban** implementation
+- **Test-Driven Development** (TDD)
+- **Behavior-Driven Development** (BDD) with Cucumber
+- **Pair Programming** and **Code Reviews**
+
+### **Quality Assurance**
+- **Unit Testing**: JUnit 5, Mockito, Testcontainers
+- **Integration Testing**: Spring Boot Test, @DataJpaTest
+- **E2E Testing**: Cypress, Playwright
+- **Performance Testing**: JMeter, Gatling
+
+### **Documentation**
+- **API Documentation**: OpenAPI 3.0 with Swagger UI
+- **Architecture Decision Records** (ADRs)
+- **Technical Specification Documents**
+- **Developer Onboarding Guides**
+
+---
+
+## 🔧 **Development Environment**
+
+```yaml
+IDE & Tools:
+  - IntelliJ IDEA Ultimate
+  - VS Code
+  - Postman / Insomnia
+  - DBeaver / DataGrip
+
+Build Tools:
+  - Maven
+  - Gradle
+  - npm / yarn / pnpm
+
+Version Control:
+  - Git (GitHub, GitLab, Bitbucket)
+  - Git Flow / GitHub Flow
+  - Conventional Commits
+
+Quality Tools:
+  - SonarQube
+  - Checkstyle / PMD
+  - ESLint / Prettier
+  - Husky Git Hooks
+```
+
+---
+
+## 🌟 **Recent Projects**
+
+### **Project A: E-commerce Platform**
+**Tech Stack**: Spring Boot + Angular + PostgreSQL + Redis + AWS
+- **Backend**: Microservices architecture with 15+ services
+- **Frontend**: Angular SPA with PWA capabilities
+- **Scale**: Handles 50k+ daily users, 10k+ orders daily
+- **Features**: Real-time inventory, payment integration, recommendation engine
+
+### **Project B: Healthcare Management System**
+**Tech Stack**: Spring Boot + Next.js + MongoDB + Kafka + Azure
+- **Compliance**: HIPAA, GDPR compliant architecture
+- **Real-time**: Live patient monitoring with WebSocket
+- **Security**: Multi-factor authentication, audit logging
+- **Mobile**: Progressive Web App with offline capabilities
+
+### **Project C: Financial Analytics Dashboard**
+**Tech Stack**: Java 17 + Spring Boot 3 + React + PostgreSQL + TimescaleDB
+- **Data Processing**: Real-time analytics with Kafka Streams
+- **Visualization**: Interactive charts with D3.js and Recharts
+- **Performance**: Sub-second query responses on 100M+ records
+- **Export**: PDF/Excel report generation
+
+---
+
+## 📈 **Technical Roadmap**
+
+### **Current Focus**
+```yaml
+Backend Development:
+  - Mastering Spring Boot 3.x features
+  - Reactive Programming with WebFlux
+  - Java 21 virtual threads
+  - Cloud-native patterns
+
+Frontend Evolution:
+  - Next.js 14 App Router
+  - Angular Signals
+  - Micro frontend architecture
+  - Web Performance optimization
+
+Emerging Technologies:
+  - AI integration in applications
+  - Edge computing concepts
+  - Blockchain for enterprise
+```
+
+---
+
+## 📞 **Get In Touch**
+
+I'm always interested in challenging projects and opportunities to work with innovative teams. Let's connect and discuss how we can build amazing software together!
+
 <div align="center">
 
-## 💼 Professional Services
+[![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertosilva.rc42@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
-
-### AI Engineering
-- **Machine Learning System Design**: Architecting scalable, secure AI solutions with integrated security controls
-- **Secure AI Integration**: Implementing AI/ML capabilities within enterprise applications with security-first approach
-- **Model Security Assessment**: Evaluating and hardening machine learning models against adversarial attacks
-
-### Full-Stack Security Development
-- **Secure Application Architecture**: Building resilient systems using Next.js and NestJS with embedded security controls
-- **API Security Design**: Developing secure RESTful and GraphQL APIs with comprehensive authentication and monitoring
-
-### Security Engineering
-- **Threat Modeling & Risk Assessment**: Systematic security analysis throughout development lifecycle
-- **Security Code Review & Architecture Assessment**: Comprehensive security evaluation of applications and infrastructure
-
-### DevSecOps & Cloud Security
-- **Secure CI/CD for AI Systems**: Implementing security scanning and compliance checks in ML pipelines
-- **Cloud Security Architecture**: Designing and implementing secure cloud infrastructure for AI workloads
 
 ---
 
 <div align="center">
+  
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
-## 📞 Contact Information
+**Open to full-time positions, contract work, and technical consulting**
 
-</div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:robertosilva.rc42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-robertosilva42-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/robertosilva42/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arch--Ghostman-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Arch-Ghostman)
-
-</div>
-
----
-
-<div align="right">
-  <em>"Security is not a product, but a process." — Bruce Schneier</em>
-</div>
-
-<div align="center">
-  <strong>Available for AI security consulting and full-stack development projects</strong>
 </div>
