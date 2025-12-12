@@ -1,17 +1,17 @@
 <div align="center">
 
-# Desenvolvedor Full-Stack Web/Mobile
-## **Especialista TypeScript & Ecossistema JavaScript/Node.js**
+# Desenvolvedor Full-Stack
+## **Node.js | React | TypeScript | PostgreSQL**
 
-<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
+<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 120px; object-fit: cover; border-radius: 8px;"/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*Não sou só mais um dev. Sou o que resolve onde a maioria falha.*
+*Transformando conhecimento técnico em aplicações funcionais e bem estruturadas*
 
 </div>
 
@@ -23,25 +23,13 @@
 
 </div>
 
-Sou **Desenvolvedor Full-Stack Sênior** especializado no ecossistema **TypeScript/JavaScript**, projetando e entregando **sistemas escaláveis, performáticos e robustos**.
+Sou um **Desenvolvedor Full-Stack** com formação técnica sólida em **Desenvolvimento de Sistemas (SENAC)** e cursando **Engenharia de Software (Estácio)**. 
 
-Trabalho com **Node.js e NestJS** no backend, criando **APIs RESTful/GraphQL**, microsserviços e arquiteturas orientadas a eventos.  
-No frontend, construo **aplicações modernas e responsivas** com **Next.js (React)** e ecossistemas como **Vite/Remix**, priorizando experiência do usuário, SEO e performance.
+Meu foco está no ecossistema **TypeScript/JavaScript**, construindo aplicações completas com **Node.js no backend** e **React no frontend**.
 
----
-
-## 🔧 Minha Atuação Técnica
-
-- **Arquitetura Limpa & Design Patterns** aplicados ao ecossistema TypeScript, criando sistemas modulares e de fácil manutenção.  
-- **Código tipado e seguro**, utilizando TypeScript ao máximo, com **testes automatizados** (unitários, integração, e2e).  
-- **Ciclos de entrega eficientes**, com CI/CD moderno, **observabilidade**, monitoramento e logging estruturado.  
-- **Documentação clara** e colaboração eficaz, promovendo alinhamento técnico e qualidade no desenvolvimento.  
+Acredito em **código bem estruturado, documentação clara e colaboração eficiente**. Busco um ambiente onde possa aplicar minhas habilidades enquanto aprendo com desenvolvedores mais experientes.
 
 ---
-
-## 🚀 Metodologias de Trabalho
-
-Atuo com **Scrum, Kanban e Shape Up**, garantindo **entrega contínua de valor**, comunicação transparente e desenvolvimento iterativo focado em resultados.
 
 <div align="center">
 
@@ -49,146 +37,148 @@ Atuo com **Scrum, Kanban e Shape Up**, garantindo **entrega contínua de valor**
 
 </div>
 
-### **Expertise em Backend (Node.js/TypeScript)**
-
+### **Backend (Node.js/TypeScript)**
 ```yaml
 Runtime & Frameworks:
-  - Node.js 18-22 (LTS)
-  - NestJS
-  - Express.js / Fastify
-  - tRPC
-  - GraphQL (Apollo Server, Yoga)
+  - Node.js
+  - Express.js
+  - NestJS (em aprendizado)
+  - tRPC (básico)
 
 Banco de Dados & ORMs:
-  - PostgreSQL / MySQL
-  - MongoDB / Mongoose
+  - PostgreSQL
+  - MongoDB
   - Prisma
-  - TypeORM / Drizzle
-  - Redis
-
-Message Brokers & Eventos:
-  - Apache Kafka
-  - RabbitMQ
-  - BullMQ (Redis queues)
-  - Server-Sent Events (SSE)
+  - TypeORM
 
 Desenvolvimento de API:
   - RESTful APIs
-  - GraphQL APIs
-  - WebSocket / Socket.io
-  - OpenAPI 3.0 / Swagger
+  - Autenticação JWT
+  - WebSocket (básico)
+  - Validação com Zod
 ```
 
-### **Maestria em Frontend (TypeScript/React)**
-
+### **Frontend (TypeScript/React)**
 ```yaml
 Ecossistema React/Next.js:
-  - Next.js 13-15 (App Router + Pages Router)
-  - React 18+ (Server/Client Components)
+  - React 18+
+  - Next.js (App Router)
   - TypeScript
-  - TanStack Query (React Query)
-  - Zustand / Redux Toolkit / Jotai
-  - Vite / Remix
+  - Vite
 
 Desenvolvimento UI/UX:
   - Tailwind CSS
-  - Shadcn/ui / Radix UI
-  - Framer Motion
-  - Storybook
-  - Vitest / Testing Library / Playwright
+  - CSS Modules
+  - Shadcn/ui (básico)
+  - Framer Motion (básico)
+
+Gerenciamento de Estado:
+  - Context API
+  - Zustand
+  - TanStack Query (aprendendo)
 ```
 
-### **DevOps, Cloud & Ferramentas**
-
+### **Ferramentas & DevOps**
 ```yaml
-Plataformas Cloud:
-  - Vercel / Netlify (Frontend)
-  - AWS (Lambda, EC2, RDS, S3, ECS)
-  - Railway / Fly.io / Render
+Ferramentas de Desenvolvimento:
+  - Git & GitHub
+  - VS Code
+  - Docker (básico)
+  - Insomnia / Postman
 
-Containerização & Infra:
-  - Docker / Docker Compose
-  - Kubernetes (básico a intermediário)
-  - GitHub Actions / GitLab CI
-  - Terraform / Pulumi
+Deploy & Cloud:
+  - Vercel
+  - Railway
+  - Render
 
-Ferramentas de Qualidade:
+Qualidade de Código:
   - ESLint / Prettier
-  - Biome (formatter/linter)
+  - TypeScript strict mode
   - Husky / lint-staged
-  - Sentry (monitoramento)
 ```
 
 ---
 
 <div align="center">
 
-## 📊 **Experiência em Arquitetura**
+## 📁 **Projetos em Destaque**
 
 </div>
 
-### **Backend & Microsserviços**
-- **Arquitetura de Microsserviços** com NestJS, comunicação via gRPC/REST/Eventos
-- **Monolitos Modulares** bem estruturados com inversão de dependência
-- **Sistemas Orientados a Eventos** com Kafka ou filas baseadas em Redis
-- **APIs Híbridas** (REST + GraphQL) usando Schema Stitching/Federation
-- **Serverless Functions** (Lambda, Vercel/Netlify Functions)
+### **Sistema de Gestão Acadêmica**
+**Stack:** Node.js + Express + React + PostgreSQL + Prisma
+- API REST completa com autenticação JWT e controle de acesso
+- Dashboard administrativo com relatórios e gráficos
+- Sistema de matrículas, notas e frequência
+- 100% tipado com TypeScript
+- [🔗 Ver Repositório](https://github.com/seuusuario/sistema-academico)
 
-### **Arquitetura Frontend & Web**
-- **Aplicações Renderizadas no Servidor (SSR)** com Next.js App Router
-- **Static Site Generation (SSG)** e Incremental Static Regeneration (ISR)
-- **Micro Frontends** com Module Federation (Webpack) ou técnicas de composição
-- **Gerenciamento de Monorepo** (Turborepo, Nx, pnpm workspaces)
-- **Otimização de Performance** (Bundle splitting, lazy loading, imagens)
+### **E-commerce Moderno**
+**Stack:** Next.js 14 + TypeScript + Tailwind + Stripe
+- App Router com Server Components e Server Actions
+- Carrinho de compras com persistência no localStorage
+- Integração com API de pagamentos (modo sandbox)
+- Design responsivo seguindo boas práticas de UX
+- [🔗 Ver Repositório](https://github.com/seuusuario/ecommerce-next)
 
-### **Segurança & Boas Práticas**
-- **Autenticação/Authorização** com JWT, Sessions, NextAuth.js, Clerk, Auth.js
-- **OAuth 2.0 / OpenID Connect** implementação própria ou com provedores
-- **Controle de Acesso Baseado em Funções/Atributos** (RBAC/ABAC)
-- **Proteção de APIs** (Rate Limiting, CORS, Helmet, input validation)
-- **Segurança em Aplicações Web** (CSP, CSRF, XSS, sanitização)
+### **API de Blog com Arquitetura Modular**
+**Stack:** NestJS + PostgreSQL + Swagger + Redis
+- Arquitetura limpa com controllers, services e repositories
+- Documentação automática com Swagger UI
+- Sistema de comentários aninhados e votos
+- Cache com Redis para melhor performance
+- [🔗 Ver Repositório](https://github.com/seuusuario/blog-api-nest)
 
 ---
 
 <div align="center">
 
-## 💼 **Experiência Profissional**
+## 🏗 **Como Trabalho**
 
 </div>
 
-### **Desenvolvimento de Aplicações Modernas**
-- **Plataformas SaaS Multi-tenant**: Arquitetura isolada por tenant, billing, feature flags
-- **Dashboards de Dados em Tempo Real**: WebSockets, SSE, atualizações dinâmicas
-- **Marketplaces & E-commerce**: Catálogo, carrinho, checkout, sistemas de pagamento
-- **Ferramentas de Produtividade & B2B**: Workflows complexos, colaboração em tempo real
+### **Princípios de Desenvolvimento**
+- **Código Tipado**: TypeScript em todos os projetos novos
+- **Clean Code**: Nomes significativos, funções pequenas, responsabilidade única
+- **Documentação**: README claro, comentários onde necessário
+- **Versionamento**: Commits semânticos, branches organizadas
 
-### **Contribuições & Padrões**
+### **Exemplo de Abordagem**
 ```typescript
-// Exemplo: Serviço Typado com NestJS + Prisma
-@Injectable()
-export class ProductService {
-  constructor(private prisma: PrismaService) {}
+// Minha filosofia em código:
+interface DevelopmentApproach {
+  readonly: true;           // Código legível
+  maintainable: true;       // Fácil de modificar
+  stronglyTyped: true;      // TypeScript everywhere
+  tested: 'learning';       // Estudando testes
+  documented: true;         // Bem explicado
+}
 
-  async getProducts(
-    filter: ProductFilterDto,
-    pagination: PaginationDto
-  ): Promise<PaginatedResponse<ProductDto>> {
-    const [products, total] = await Promise.all([
-      this.prisma.product.findMany({
-        where: this.buildWhereFilter(filter),
-        skip: pagination.skip,
-        take: pagination.take,
-        orderBy: { [pagination.sortBy]: pagination.sortOrder },
-        include: { category: true },
-      }),
-      this.prisma.product.count({ where: this.buildWhereFilter(filter) }),
-    ]);
-
-    return {
-      data: products.map(this.toDto),
-      meta: { total, page: pagination.page, limit: pagination.take },
-    };
-  }
+// Implementação prática:
+async function registerUser(userData: UserRegistrationDto) {
+  // 1. Validação estrita
+  const validated = await registrationSchema.parseAsync(userData);
+  
+  // 2. Lógica de negócio clara
+  const hashedPassword = await bcrypt.hash(validated.password, 10);
+  
+  // 3. Operação no banco com transação
+  const user = await prisma.$transaction(async (tx) => {
+    return await tx.user.create({
+      data: {
+        email: validated.email,
+        password: hashedPassword,
+        profile: {
+          create: {
+            name: validated.name,
+          },
+        },
+      },
+    });
+  });
+  
+  // 4. Retorno tipado e seguro
+  return exclude(user, ['password']);
 }
 ```
 
@@ -196,136 +186,42 @@ export class ProductService {
 
 <div align="center">
 
-## 🏆 **Conquistas Técnicas**
+## 📚 **Aprendizado Contínuo**
 
 </div>
 
-### **Otimização de Performance**
-- Redução de **60% no LCP (Largest Contentful Paint)** com otimizações de imagem, fontes e code splitting
-- Melhoria de **50% no tempo de resposta de APIs** com caching (Redis), otimização de queries e conexões persistentes
-- **Bundle size reduzido em 40%** através de análise de dependências, tree-shaking e lazy loading
-
-### **Escalabilidade & Confiabilidade**
-- Migração de aplicação monolítica para **arquitetura de microsserviços**, suportando 50k+ usuários simultâneos
-- Implementação de **sistemas de filas e retry** com Dead Letter Queues, aumentando a resiliência
-- Projeto de **estratégias de cache multi-camada** (CDN, servidor, cliente) para conteúdo dinâmico
-
-### **Qualidade & Velocidade de Desenvolvimento**
-- Estabelecimento de **pipelines CI/CD com deploy previews** e testes automatizados para cada PR
-- Criação de **kits de UI internos e generators de código** (Plop), acelerando o desenvolvimento em 30%
-- Introdução de **padrões de código e revisões estruturadas**, reduzindo bugs em produção em 50%
-
----
-
-<div align="center">
-
-## 📚 **Metodologias de Desenvolvimento**
-
-</div>
-
-### **Práticas Ágeis & Colaborativas**
-- **Desenvolvimento Orientado a Testes (TDD)** com ferramentas modernas (Vitest, Jest)
-- **Pair Programming** e **Code Reviews** focados em aprendizado e qualidade
-- **Sprints bem definidos** com entregas incrementais e feedback contínuo
-- **Documentação como código** (JSDoc, TypeDoc, MDX)
-
-### **Garantia de Qualidade**
-- **Testes Unitários**: Vitest, Jest
-- **Testes de Integração**: Supertest, Testcontainers
-- **Testes E2E**: Playwright, Cypress
-- **Testes de Performance e Carga**: k6, Artillery
-
-### **Documentação & Comunicação**
-- **Documentação de API interativa**: Swagger/OpenAPI, tRPC Playground, GraphQL Playground/Sandbox
-- **Decision Logs (ADRs)** para registro de decisões arquiteturais
-- **Pull Requests descritivos** e templates padronizados
-- **Comunicação assíncrona** eficaz e documentação de processos
-
----
-
-<div align="center">
-
-## 🔧 **Ambiente de Desenvolvimento**
-
-</div>
-
+### **Foco Atual**
 ```yaml
-IDE & Ferramentas:
-  - VS Code (com extensões TypeScript/React)
-  - WebStorm
-  - Figma (para colaboração UI/UX)
-  - Insomnia / Bruno / Postman
+Consolidando:
+  - TypeScript Advanced Types
+  - Next.js App Router
+  - PostgreSQL Performance
+  - API Design Patterns
 
-Gerenciamento de Pacotes & Build:
-  - npm / yarn / pnpm
-  - Turborepo
-  - esbuild / swc
+Aprendendo:
+  - Testes Automatizados (Jest, RTL)
+  - Docker & Containerização
+  - GraphQL Fundamentals
+  - CI/CD Básico
 
-Controle de Versão:
-  - Git (GitHub, GitLab)
-  - Trunk-based Development / GitHub Flow
-  - Conventional Commits / Semantic Release
-
-Ferramentas de Monitoramento & Debug:
-  - Sentry
-  - Datadog / New Relic
-  - Winston / Pino (logging)
+Interesses:
+  - Clean Architecture
+  - Message Queues (Redis)
+  - Monitoring & Observability
+  - Serverless Functions
 ```
 
 ---
 
 <div align="center">
 
-## 🌟 **Projetos Recentes**
+## 🎓 **Formação Acadêmica**
 
 </div>
 
-### **Projeto A: Plataforma de Conteúdo com Editor Rich-Text**
-**Stack**: Next.js 15 (App Router), NestJS, PostgreSQL, Redis, Vercel
-- **Editor Custom**: Implementação de editor block-based similar ao Notion
-- **Colaboração em Tempo Real**: WebSockets para co-editing e comentários
-- **Busca Avançada**: Full-text search com PostgreSQL e filtros complexos
-- **Escala**: Suporta milhares de documentos com versionamento e histórico
-
-### **Projeto B: Dashboard Analítico para E-commerce**
-**Stack**: React + Vite, tRPC, Prisma, ClickHouse, Docker
-- **Visualização de Dados**: Gráficos interativos com visx e custom viz components
-- **Processamento de Dados**: Pipelines ETL com Node.js workers
-- **Performance de Queries**: Agregações em grandes volumes (bilhões de linhas)
-- **Exportação**: Geração de relatórios em PDF/XLSX com bibliotecas server-side
-
-### **Projeto C: Sistema de Agendamento Multi-recursos**
-**Stack**: Remix, NestJS, MongoDB, BullMQ, AWS
-- **Lógica Complexa de Agendamento**: Conflitos, timezones, recorrência
-- **Notificações**: Email (Resend), SMS (Twilio), push (OneSignal)
-- **Integrações de Calendário**: Google Calendar, Outlook, CalDAV
-- **Resiliência**: Sistema de filas com retry exponencial e dead-letter
-
----
-
-<div align="center">
-
-## 📈 **Roteiro Técnico & Aprendizado**
-
-</div>
-
-### **Foco Atual (Aprofundando)**
-```yaml
-Fundamentos & Performance:
-  - Otimização avançada de bundles e runtime (React 19, React Compiler)
-  - Padrões arquiteturais para grandes codebases em monorepos
-  - Performance de bancos de dados (indexação, query planning, connection pooling)
-
-Novas Fronteiras:
-  - Aplicações com IA Integrada (OpenAI, LangChain, agents)
-  - Edge Computing e Edge Databases (Vercel Edge Config, Neon)
-  - Real-time mais sofisticado (Protocolos como PartyKit, Ably)
-
-Ferramentas Emergentes:
-  - Bun como runtime alternativo
-  - Biomes como substituto de ESLint/Prettier
-  - Turborepo para builds e tasks
-```
+- **Engenharia de Software** - Estácio *(Cursando)*
+- **Tecnólogo em Desenvolvimento de Sistemas** - SENAC *(Concluído)*
+- **Técnico em Informática para Internet** - SENAC *(Cursando)*
 
 ---
 
@@ -335,14 +231,13 @@ Ferramentas Emergentes:
 
 </div>
 
-Estou sempre aberto a conversas sobre projetos desafiadores, arquitetura de software e oportunidades de colaboração. Vamos construir algo incrível juntos!
+Estou buscando oportunidades como **Desenvolvedor Full-Stack** onde possa contribuir com minhas habilidades técnicas enquanto continuo aprendendo e crescendo profissionalmente.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertosilva.rc42@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
 
 </div>
 
@@ -350,9 +245,9 @@ Estou sempre aberto a conversas sobre projetos desafiadores, arquitetura de soft
 
 <div align="center">
 
-*"Escreva código tipado que seu 'eu' do futuro agradecerá por ler."*
-
-**Aberto para posições em tempo integral, contrato (PJ) e consultoria em arquitetura TypeScript/Node.js**
+*"Entendo que ainda tenho muito a aprender, mas sei o suficiente para construir coisas que funcionam e agregam valor."*
 
 </div>
 ```
+
+---
