@@ -1,7 +1,7 @@
 <div align="center">
   
-# ☕ Desenvolvedor Full-Stack Web/Mobile
-## **Desenvolvedor Java / Spring Boot**
+# Desenvolvedor Full-Stack Web/Mobile
+## **Desenvolvedor TypeScript / NestJS / Next.js**
 </div>
 <div align="center">
   
