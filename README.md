@@ -1,128 +1,122 @@
 <div align="center">
-  
+
 # Desenvolvedor Full-Stack Web/Mobile
-## **Desenvolvedor TypeScript / NestJS / Next.js**
-</div>
-<div align="center">
-  
+## **Especialista TypeScript & Ecossistema JavaScript/Node.js**
+
 <img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 8px;"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-*Não sou só mais um dev. Sou o que resolve onde a maioria desiste.*
+*Não sou só mais um dev. Sou o que resolve onde a maioria falha.*
 
 </div>
 
 ---
+
 <div align="center">
-  
+
 ## 🎯 Sobre Mim
 
 </div>
 
-Sou **Desenvolvedor Full-Stack Sênior** especializado em projetar e entregar **sistemas corporativos escaláveis, seguros e de alta performance**.
+Sou **Desenvolvedor Full-Stack Sênior** especializado no ecossistema **TypeScript/JavaScript**, projetando e entregando **sistemas escaláveis, performáticos e robustos**.
 
-Trabalho com **Java + Spring** (Spring Boot, Spring Cloud, Spring Security) no backend, desenvolvendo **APIs RESTful**, serviços distribuídos e integrações complexas.  
-No frontend, construo **aplicações modernas e performáticas** com **Angular (TypeScript, RxJS)** e **Next.js (React)**, sempre priorizando interfaces fluidas e responsivas.
+Trabalho com **Node.js e NestJS** no backend, criando **APIs RESTful/GraphQL**, microsserviços e arquiteturas orientadas a eventos.  
+No frontend, construo **aplicações modernas e responsivas** com **Next.js (React)** e ecossistemas como **Vite/Remix**, priorizando experiência do usuário, SEO e performance.
 
 ---
 
 ## 🔧 Minha Atuação Técnica
 
-- **Arquitetura Limpa & Design Patterns** para criar sistemas bem estruturados e de fácil evolução.  
-- **Código de qualidade**, usando Clean Code e **testes automatizados completos** (unitários, integração e e2e).  
-- **Ciclos de entrega estáveis**, com CI/CD, **logs estruturados**, métricas, monitoramento e observabilidade.  
-- **Documentação técnica clara**, facilitando alinhamento, organização e colaboração entre equipes.  
+- **Arquitetura Limpa & Design Patterns** aplicados ao ecossistema TypeScript, criando sistemas modulares e de fácil manutenção.  
+- **Código tipado e seguro**, utilizando TypeScript ao máximo, com **testes automatizados** (unitários, integração, e2e).  
+- **Ciclos de entrega eficientes**, com CI/CD moderno, **observabilidade**, monitoramento e logging estruturado.  
+- **Documentação clara** e colaboração eficaz, promovendo alinhamento técnico e qualidade no desenvolvimento.  
 
 ---
 
 ## 🚀 Metodologias de Trabalho
 
-Atuo com **Scrum e Kanban**, garantindo **entrega contínua de valor**, comunicação objetiva e desenvolvimento iterativo e previsível.
-
+Atuo com **Scrum, Kanban e Shape Up**, garantindo **entrega contínua de valor**, comunicação transparente e desenvolvimento iterativo focado em resultados.
 
 <div align="center">
 
 ## 🛠 **Stack Tecnológica Principal**
 
 </div>
-  
-### **Expertise em Backend**
+
+### **Expertise em Backend (Node.js/TypeScript)**
 
 ```yaml
-Stack Principal:
-  - Java 11-21
-  - Spring Boot 3.x
-  - Spring Security
-  - Spring Data JPA
-  - Spring Cloud
+Runtime & Frameworks:
+  - Node.js 18-22 (LTS)
+  - NestJS
+  - Express.js / Fastify
+  - tRPC
+  - GraphQL (Apollo Server, Yoga)
 
-Banco de Dados & Cache:
+Banco de Dados & ORMs:
   - PostgreSQL / MySQL
-  - MongoDB
+  - MongoDB / Mongoose
+  - Prisma
+  - TypeORM / Drizzle
   - Redis
-  - Elasticsearch
 
-Message Brokers:
+Message Brokers & Eventos:
   - Apache Kafka
   - RabbitMQ
-  - ActiveMQ
+  - BullMQ (Redis queues)
+  - Server-Sent Events (SSE)
 
 Desenvolvimento de API:
-  - APIs RESTful
-  - GraphQL (com Spring GraphQL)
-  - WebSocket / STOMP
+  - RESTful APIs
+  - GraphQL APIs
+  - WebSocket / Socket.io
   - OpenAPI 3.0 / Swagger
 ```
 
-### **Maestria em Frontend**
-```yaml
-Ecossistema Angular:
-  - Angular 14-18
-  - TypeScript
-  - RxJS / NgRx
-  - Angular Material
-  - Angular CLI
+### **Maestria em Frontend (TypeScript/React)**
 
-Next.js & React:
-  - Next.js 13-14 (App Router)
-  - React 18
-  - Server Components
-  - React Query / SWR
-  - Zustand / Redux Toolkit
+```yaml
+Ecossistema React/Next.js:
+  - Next.js 13-15 (App Router + Pages Router)
+  - React 18+ (Server/Client Components)
+  - TypeScript
+  - TanStack Query (React Query)
+  - Zustand / Redux Toolkit / Jotai
+  - Vite / Remix
 
 Desenvolvimento UI/UX:
   - Tailwind CSS
-  - Material-UI / Chakra UI
+  - Shadcn/ui / Radix UI
+  - Framer Motion
   - Storybook
-  - Jest / Testing Library
+  - Vitest / Testing Library / Playwright
 ```
 
-### **DevOps & Cloud**
+### **DevOps, Cloud & Ferramentas**
+
 ```yaml
 Plataformas Cloud:
-  - AWS (EC2, S3, RDS, Lambda)
-  - Azure (App Service, SQL DB)
-  - Google Cloud Platform
+  - Vercel / Netlify (Frontend)
+  - AWS (Lambda, EC2, RDS, S3, ECS)
+  - Railway / Fly.io / Render
 
-Containerização:
-  - Docker
-  - Docker Compose
-  - Kubernetes (básico)
+Containerização & Infra:
+  - Docker / Docker Compose
+  - Kubernetes (básico a intermediário)
+  - GitHub Actions / GitLab CI
+  - Terraform / Pulumi
 
-CI/CD:
-  - GitHub Actions
-  - Jenkins
-  - GitLab CI
-
-Infraestrutura:
-  - Terraform
-  - AWS CDK
-  - Nginx
+Ferramentas de Qualidade:
+  - ESLint / Prettier
+  - Biome (formatter/linter)
+  - Husky / lint-staged
+  - Sentry (monitoramento)
 ```
 
 ---
@@ -133,24 +127,26 @@ Infraestrutura:
 
 </div>
 
-### **Microsserviços & Monolitos**
-- **Arquitetura de Microsserviços** com Spring Cloud
-- **Monolitos Modulares** usando Java Modules
-- **Sistemas Orientados a Eventos** com Kafka
-- **Padrões de API Gateway** (Spring Cloud Gateway)
+### **Backend & Microsserviços**
+- **Arquitetura de Microsserviços** com NestJS, comunicação via gRPC/REST/Eventos
+- **Monolitos Modulares** bem estruturados com inversão de dependência
+- **Sistemas Orientados a Eventos** com Kafka ou filas baseadas em Redis
+- **APIs Híbridas** (REST + GraphQL) usando Schema Stitching/Federation
+- **Serverless Functions** (Lambda, Vercel/Netlify Functions)
 
-### **Arquitetura Frontend**
-- **Micro Frontends** com Module Federation
-- **Gerenciamento de Monorepo** (Nx Workspace, Turborepo)
-- **Server-Side Rendering** (Next.js, Angular Universal)
-- **Static Site Generation** e Incremental Static Regeneration
+### **Arquitetura Frontend & Web**
+- **Aplicações Renderizadas no Servidor (SSR)** com Next.js App Router
+- **Static Site Generation (SSG)** e Incremental Static Regeneration (ISR)
+- **Micro Frontends** com Module Federation (Webpack) ou técnicas de composição
+- **Gerenciamento de Monorepo** (Turborepo, Nx, pnpm workspaces)
+- **Otimização de Performance** (Bundle splitting, lazy loading, imagens)
 
-### **Implementação de Segurança**
-- **Autenticação baseada em JWT** com Spring Security
-- **OAuth 2.0 / OpenID Connect**
-- **Controle de Acesso Baseado em Funções** (RBAC)
-- **Melhores Práticas de Segurança de API**
-- **Implementação de Content Security Policy** (CSP)
+### **Segurança & Boas Práticas**
+- **Autenticação/Authorização** com JWT, Sessions, NextAuth.js, Clerk, Auth.js
+- **OAuth 2.0 / OpenID Connect** implementação própria ou com provedores
+- **Controle de Acesso Baseado em Funções/Atributos** (RBAC/ABAC)
+- **Proteção de APIs** (Rate Limiting, CORS, Helmet, input validation)
+- **Segurança em Aplicações Web** (CSP, CSRF, XSS, sanitização)
 
 ---
 
@@ -160,37 +156,39 @@ Infraestrutura:
 
 </div>
 
-### **Desenvolvimento de Aplicações Empresariais**
-- **Sistemas Financeiros**: Aplicações bancárias com processamento de transações em tempo real
-- **Plataformas E-commerce**: Sistemas de varejo online de alto tráfego
-- **Sistemas de Saúde**: Aplicações de gerenciamento de pacientes compatíveis com HIPAA
-- **Produtos SaaS**: Aplicações cloud multi-tenant
+### **Desenvolvimento de Aplicações Modernas**
+- **Plataformas SaaS Multi-tenant**: Arquitetura isolada por tenant, billing, feature flags
+- **Dashboards de Dados em Tempo Real**: WebSockets, SSE, atualizações dinâmicas
+- **Marketplaces & E-commerce**: Catálogo, carrinho, checkout, sistemas de pagamento
+- **Ferramentas de Produtividade & B2B**: Workflows complexos, colaboração em tempo real
 
-### **Contribuições Principais**
-```java
-// Exemplo: Serviço Spring Boot Moderno
-@RestController
-@RequestMapping("/api/v1")
-@SecurityRequirement(name = "bearerAuth")
-public class ProductController {
-    
-    private final ProductService productService;
-    
-    @GetMapping("/products")
-    @Operation(summary = "Obter produtos paginados")
-    public ResponseEntity<Page<ProductResponse>> getProducts(
-            @ParameterObject @Valid ProductFilter filter,
-            @ParameterObject Pageable pageable) {
-        return ResponseEntity.ok(productService.findAll(filter, pageable));
-    }
-    
-    @PostMapping("/products")
-    @PreAuthorize("hasRole('ADMIN')")
-    public ResponseEntity<ProductResponse> createProduct(
-            @Valid @RequestBody CreateProductRequest request) {
-        return ResponseEntity.status(HttpStatus.CREATED)
-                .body(productService.create(request));
-    }
+### **Contribuições & Padrões**
+```typescript
+// Exemplo: Serviço Typado com NestJS + Prisma
+@Injectable()
+export class ProductService {
+  constructor(private prisma: PrismaService) {}
+
+  async getProducts(
+    filter: ProductFilterDto,
+    pagination: PaginationDto
+  ): Promise<PaginatedResponse<ProductDto>> {
+    const [products, total] = await Promise.all([
+      this.prisma.product.findMany({
+        where: this.buildWhereFilter(filter),
+        skip: pagination.skip,
+        take: pagination.take,
+        orderBy: { [pagination.sortBy]: pagination.sortOrder },
+        include: { category: true },
+      }),
+      this.prisma.product.count({ where: this.buildWhereFilter(filter) }),
+    ]);
+
+    return {
+      data: products.map(this.toDto),
+      meta: { total, page: pagination.page, limit: pagination.take },
+    };
+  }
 }
 ```
 
@@ -203,19 +201,19 @@ public class ProductController {
 </div>
 
 ### **Otimização de Performance**
-- Redução de 70% no tempo de resposta de APIs através de otimização de queries e cache
-- Melhoria de 60% no tempo de carregamento de aplicações Angular com lazy loading e code splitting
-- Implementação de camada de cache Redis lidando com 10k+ requisições por segundo
+- Redução de **60% no LCP (Largest Contentful Paint)** com otimizações de imagem, fontes e code splitting
+- Melhoria de **50% no tempo de resposta de APIs** com caching (Redis), otimização de queries e conexões persistentes
+- **Bundle size reduzido em 40%** através de análise de dependências, tree-shaking e lazy loading
 
-### **Melhorias de Escalabilidade**
-- Migração de aplicação monolítica para microsserviços atendendo 100k+ usuários
-- Implementação de estratégias de escalabilidade horizontal para banco de dados e camadas de aplicação
-- Projeto e implantação de soluções de auto-scaling na AWS
+### **Escalabilidade & Confiabilidade**
+- Migração de aplicação monolítica para **arquitetura de microsserviços**, suportando 50k+ usuários simultâneos
+- Implementação de **sistemas de filas e retry** com Dead Letter Queues, aumentando a resiliência
+- Projeto de **estratégias de cache multi-camada** (CDN, servidor, cliente) para conteúdo dinâmico
 
-### **Qualidade de Código & Melhores Práticas**
-- Estabelecimento de pipelines CI/CD com 100% de cobertura de testes automatizados
-- Implementação de sistemas abrangentes de monitoramento e alertas
-- Introdução de processos de code review reduzindo bugs em produção em 40%
+### **Qualidade & Velocidade de Desenvolvimento**
+- Estabelecimento de **pipelines CI/CD com deploy previews** e testes automatizados para cada PR
+- Criação de **kits de UI internos e generators de código** (Plop), acelerando o desenvolvimento em 30%
+- Introdução de **padrões de código e revisões estruturadas**, reduzindo bugs em produção em 50%
 
 ---
 
@@ -225,23 +223,23 @@ public class ProductController {
 
 </div>
 
-### **Práticas Ágeis**
-- Implementação de **Scrum & Kanban**
-- **Desenvolvimento Orientado a Testes** (TDD)
-- **Desenvolvimento Orientado a Comportamento** (BDD) com Cucumber
-- **Pair Programming** e **Code Reviews**
+### **Práticas Ágeis & Colaborativas**
+- **Desenvolvimento Orientado a Testes (TDD)** com ferramentas modernas (Vitest, Jest)
+- **Pair Programming** e **Code Reviews** focados em aprendizado e qualidade
+- **Sprints bem definidos** com entregas incrementais e feedback contínuo
+- **Documentação como código** (JSDoc, TypeDoc, MDX)
 
 ### **Garantia de Qualidade**
-- **Testes Unitários**: JUnit 5, Mockito, Testcontainers
-- **Testes de Integração**: Spring Boot Test, @DataJpaTest
-- **Testes E2E**: Cypress, Playwright
-- **Testes de Performance**: JMeter, Gatling
+- **Testes Unitários**: Vitest, Jest
+- **Testes de Integração**: Supertest, Testcontainers
+- **Testes E2E**: Playwright, Cypress
+- **Testes de Performance e Carga**: k6, Artillery
 
-### **Documentação**
-- **Documentação de API**: OpenAPI 3.0 com Swagger UI
-- **Registros de Decisão de Arquitetura** (ADRs)
-- **Documentos de Especificação Técnica**
-- **Guias de Onboarding para Desenvolvedores**
+### **Documentação & Comunicação**
+- **Documentação de API interativa**: Swagger/OpenAPI, tRPC Playground, GraphQL Playground/Sandbox
+- **Decision Logs (ADRs)** para registro de decisões arquiteturais
+- **Pull Requests descritivos** e templates padronizados
+- **Comunicação assíncrona** eficaz e documentação de processos
 
 ---
 
@@ -253,26 +251,25 @@ public class ProductController {
 
 ```yaml
 IDE & Ferramentas:
-  - IntelliJ IDEA Ultimate
-  - VS Code
-  - Postman / Insomnia
-  - DBeaver / DataGrip
+  - VS Code (com extensões TypeScript/React)
+  - WebStorm
+  - Figma (para colaboração UI/UX)
+  - Insomnia / Bruno / Postman
 
-Ferramentas de Build:
-  - Maven
-  - Gradle
+Gerenciamento de Pacotes & Build:
   - npm / yarn / pnpm
+  - Turborepo
+  - esbuild / swc
 
 Controle de Versão:
-  - Git (GitHub, GitLab, Bitbucket)
-  - Git Flow / GitHub Flow
-  - Conventional Commits
+  - Git (GitHub, GitLab)
+  - Trunk-based Development / GitHub Flow
+  - Conventional Commits / Semantic Release
 
-Ferramentas de Qualidade:
-  - SonarQube
-  - Checkstyle / PMD
-  - ESLint / Prettier
-  - Husky Git Hooks
+Ferramentas de Monitoramento & Debug:
+  - Sentry
+  - Datadog / New Relic
+  - Winston / Pino (logging)
 ```
 
 ---
@@ -283,53 +280,51 @@ Ferramentas de Qualidade:
 
 </div>
 
-### **Projeto A: Plataforma E-commerce**
-**Stack**: Spring Boot + Angular + PostgreSQL + Redis + AWS
-- **Backend**: Arquitetura de microsserviços com 15+ serviços
-- **Frontend**: SPA Angular com capacidades PWA
-- **Escala**: Lida com 50k+ usuários diários, 10k+ pedidos diários
-- **Funcionalidades**: Inventário em tempo real, integração de pagamento, motor de recomendação
+### **Projeto A: Plataforma de Conteúdo com Editor Rich-Text**
+**Stack**: Next.js 15 (App Router), NestJS, PostgreSQL, Redis, Vercel
+- **Editor Custom**: Implementação de editor block-based similar ao Notion
+- **Colaboração em Tempo Real**: WebSockets para co-editing e comentários
+- **Busca Avançada**: Full-text search com PostgreSQL e filtros complexos
+- **Escala**: Suporta milhares de documentos com versionamento e histórico
 
-### **Projeto B: Sistema de Gestão de Saúde**
-**Stack**: Spring Boot + Next.js + MongoDB + Kafka + Azure
-- **Conformidade**: Arquitetura compatível com HIPAA, GDPR
-- **Tempo real**: Monitoramento de pacientes ao vivo com WebSocket
-- **Segurança**: Autenticação multi-fator, logging de auditoria
-- **Mobile**: Progressive Web App com capacidades offline
+### **Projeto B: Dashboard Analítico para E-commerce**
+**Stack**: React + Vite, tRPC, Prisma, ClickHouse, Docker
+- **Visualização de Dados**: Gráficos interativos com visx e custom viz components
+- **Processamento de Dados**: Pipelines ETL com Node.js workers
+- **Performance de Queries**: Agregações em grandes volumes (bilhões de linhas)
+- **Exportação**: Geração de relatórios em PDF/XLSX com bibliotecas server-side
 
-### **Projeto C: Dashboard de Análise Financeira**
-**Stack**: Java 17 + Spring Boot 3 + React + PostgreSQL + TimescaleDB
-- **Processamento de Dados**: Análises em tempo real com Kafka Streams
-- **Visualização**: Gráficos interativos com D3.js e Recharts
-- **Performance**: Respostas de queries em sub-segundos em 100M+ registros
-- **Exportação**: Geração de relatórios PDF/Excel
+### **Projeto C: Sistema de Agendamento Multi-recursos**
+**Stack**: Remix, NestJS, MongoDB, BullMQ, AWS
+- **Lógica Complexa de Agendamento**: Conflitos, timezones, recorrência
+- **Notificações**: Email (Resend), SMS (Twilio), push (OneSignal)
+- **Integrações de Calendário**: Google Calendar, Outlook, CalDAV
+- **Resiliência**: Sistema de filas com retry exponencial e dead-letter
 
 ---
 
 <div align="center">
 
-## 📈 **Roteiro Técnico**
+## 📈 **Roteiro Técnico & Aprendizado**
 
 </div>
 
-### **Foco Atual**
+### **Foco Atual (Aprofundando)**
 ```yaml
-Desenvolvimento Backend:
-  - Domínio de recursos do Spring Boot 3.x
-  - Programação Reativa com WebFlux
-  - Virtual threads do Java 21
-  - Padrões cloud-native
+Fundamentos & Performance:
+  - Otimização avançada de bundles e runtime (React 19, React Compiler)
+  - Padrões arquiteturais para grandes codebases em monorepos
+  - Performance de bancos de dados (indexação, query planning, connection pooling)
 
-Evolução Frontend:
-  - Next.js 14 App Router
-  - Angular Signals
-  - Arquitetura de micro frontends
-  - Otimização de performance web
+Novas Fronteiras:
+  - Aplicações com IA Integrada (OpenAI, LangChain, agents)
+  - Edge Computing e Edge Databases (Vercel Edge Config, Neon)
+  - Real-time mais sofisticado (Protocolos como PartyKit, Ably)
 
-Tecnologias Emergentes:
-  - Integração de IA em aplicações
-  - Conceitos de edge computing
-  - Blockchain para empresas
+Ferramentas Emergentes:
+  - Bun como runtime alternativo
+  - Biomes como substituto de ESLint/Prettier
+  - Turborepo para builds e tasks
 ```
 
 ---
@@ -340,7 +335,7 @@ Tecnologias Emergentes:
 
 </div>
 
-Estou sempre interessado em projetos desafiadores e oportunidades de trabalhar com equipes inovadoras. Vamos nos conectar e discutir como podemos construir software incrível juntos!
+Estou sempre aberto a conversas sobre projetos desafiadores, arquitetura de software e oportunidades de colaboração. Vamos construir algo incrível juntos!
 
 <div align="center">
 
@@ -354,9 +349,10 @@ Estou sempre interessado em projetos desafiadores e oportunidades de trabalhar c
 ---
 
 <div align="center">
-  
-*"Código limpo sempre parece ter sido escrito por alguém que se importa." — Robert C. Martin*
 
-**Aberto para posições em tempo integral, trabalho contratual e consultoria técnica**
+*"Escreva código tipado que seu 'eu' do futuro agradecerá por ler."*
+
+**Aberto para posições em tempo integral, contrato (PJ) e consultoria em arquitetura TypeScript/Node.js**
 
 </div>
+```
