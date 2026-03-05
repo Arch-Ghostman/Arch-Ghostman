@@ -1,6 +1,6 @@
 <div align="center">
 
-# Back End Developer
+# BackEnd Developer
 ## **Spring Boot | Node | TypeScript | PostgreSQL**
 
 <img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 120px; object-fit: cover; border-radius: 8px;"/>
